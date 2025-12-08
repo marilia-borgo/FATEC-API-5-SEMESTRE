@@ -107,7 +107,10 @@ Todos os requisitos detalhados estão aqui: [Requisitos Detalhados](./documentac
 [Manual do usuário](./documentacao/produto/manual_do_usuario.md)
 
 ## 📦 Figma Projeto <a id="figma"></a>
-[Figma](https://www.figma.com/design/YBuIsfRpONwxIMrR1xqMyv/API-5%C2%BA-SEM?node-id=0-1&t=ZWqGjJXrsCpHYu7s-1 ) - Atualizado o Figma conforme aprovação da equipe com os ajustes solicitados pelo cliente.
+[Figma](https://www.figma.com/design/YBuIsfRpONwxIMrR1xqMyv/API-5%C2%BA-SEM?node-id=0-1&t=ZWqGjJXrsCpHYu7s-1)
+
+## 🪵 Sonarqube Main  <a id="sonar"></a>
+[Sonarqube](https://sonarcloud.io/project/overview?id=c137santos_FATEC-API-5-SEMESTRE)
 
 ## 🎓 Equipe <a id="equipe"></a>
 
